@@ -21,7 +21,7 @@ It includes a variety of information covering:
 
 ## 🎯 Project Objective
 
-To analyze key characteristics and insights from data professionals' responses and visualize them in an interactive dashboard to:
+To analyze key characteristics and insights from data professionals responses and visualize them in an interactive dashboard to:
 
 - Understand salary trends by job title
 - Identify popular programming languages
@@ -84,12 +84,6 @@ This dashboard provides a comprehensive overview of the current landscape for da
 ![Dashboard Screenshot](./Dashboard.png)
 
 > 🟡 *Note: The dashboard was built using Power BI Desktop.*
-
----
-
-## 📎 License
-
-This project is licensed under the MIT License.
 
 ---
 
